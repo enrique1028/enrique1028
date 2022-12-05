@@ -6,36 +6,39 @@ Actualmente desarrollador web Full Stack, apasionado en este mundo de la program
 
 Conocimientos actuales:
 
-✔️ JavaScript avanzado.
+Lengiajes de programación:
+
+✔️ JavaScript avanzado
+
+✔️ typeScript
+
+--------------
+
+Tecnologías y base de datos:
+
+✔️ MongoDB.
+
+✔️ Mongoose.
+
+✔️ PostgreSQL.
+
+✔️ Express.
+
+✔️ NodeJS.
+
+--------------
+
+Tecnologías e interacción:
 
 ✔️ ReactJS.
 
 ✔️ Redux.
 
-✔️ NodeJS.
-
-✔️ Express.
-
-✔️ PostgreSQL.
-
-✔️ Bootstrap.
-
---------
-
-Conocimientos adquiridos recientemente 📚
-✔️ MongoDB.
-
-✔️ Mongoose.
-
-✔️ JWT.
-
-✔️ LocalStorage.
-
-✔️ FireBase.
+✔️ ReduxToolkits.
 
 ✔️ Tailwind.
 
-✔️ TypeScript.
+✔️ CSS moduels.
 
 
 <!--
