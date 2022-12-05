@@ -20,7 +20,7 @@ Conocimientos actuales:
 
 ✔️ Bootstrap.
 
----------------------------------------------------
+--------
 
 Conocimientos adquiridos recientemente 📚
 ✔️ MongoDB.
