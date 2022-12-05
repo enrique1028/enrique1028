@@ -4,7 +4,7 @@ Hace mucho interesado pero 5 meses sumergido tiempo completo en este mundo de la
 
 Actualmente desarrollador web Full Stack, apasionado en este mundo de la programación, practicando con la creación de nuevas aplicaciones web escalables y con muchas ganas de aprender nuevos lenguajes de que me permitan evolucionar en mi carrera como desarrollador web profesional.
 
-**Conocimientos actuales:**
+# Conocimientos actuales
 
 Lenguajes de programación:
 
