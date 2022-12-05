@@ -1,4 +1,11 @@
-### Hi there 👋
+Hola, este
+Hola, soy Enrique. 
+
+Un gusto tenerte por aquí, te cuento un poco de mi trayectoria en los últimos años.
+
+Actualmente desarrollador web Full Stack, apasionado en este mundo de la programación, practicando con la creación de nuevas aplicaciones web escalables y con muchas ganas de aprender nuevos lenguajes de que me permitan evolucionar en mi carrera como desarrollador web profesional.
+
+Totalmente apasionado por los paisajes, la naturaleza y la computadora, creo que tienen una compatibilidad única.
 
 <!--
 **enrique1028/enrique1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
