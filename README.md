@@ -4,8 +4,6 @@ Hace mucho interesado pero 5 meses sumergido tiempo completo en este mundo de la
 
 Actualmente desarrollador web Full Stack, apasionado en este mundo de la programación, practicando con la creación de nuevas aplicaciones web escalables y con muchas ganas de aprender nuevos lenguajes de que me permitan evolucionar en mi carrera como desarrollador web profesional.
 
---------------
-
 Conocimientos actuales:
 
 Lengiajes de programación:
@@ -14,7 +12,7 @@ Lengiajes de programación:
 
 ✔️ typeScript
 
---------------
+---
 
 Tecnologías y base de datos:
 
@@ -28,7 +26,7 @@ Tecnologías y base de datos:
 
 ✔️ NodeJS.
 
---------------
+---
 
 Tecnologías e interacción:
 
