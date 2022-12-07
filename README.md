@@ -38,6 +38,7 @@ Actualmente desarrollador web Full Stack, apasionado en este mundo de la program
 
 ⚡ CSS moduels.
 
+Cualquier inquietud o información adicional, puedes escribirme: enrique_1028@hotmail.com
 
 <!--
 **enrique1028/enrique1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
